@@ -1,6 +1,13 @@
 Software Engineering - CMP020N204S
 
 Getting Started
+ first make sure node.js is installed 
+ node -v 
+ npm -v
+ 
+ then enter 
+ npm install 
+
  to build the docker enter the following code 
  
  docker build -t cw1 .
