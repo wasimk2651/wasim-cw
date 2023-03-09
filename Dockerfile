@@ -9,6 +9,8 @@ RUN npm install
 EXPOSE 3250
 
 CMD ["npm", "run", "start" ] 
+
+
 #docker build -t cw1 .
 #used to build the docker
 
