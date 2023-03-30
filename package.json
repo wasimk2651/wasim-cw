@@ -1,9 +1,12 @@
 {
+<<<<<<< Updated upstream
 "scripts": {
   "start": "node index.js"
 },
 
 
+=======
+>>>>>>> Stashed changes
   "dependencies": {
     "express": "^4.18.2"
   }
