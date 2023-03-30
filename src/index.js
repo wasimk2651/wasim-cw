@@ -6,9 +6,8 @@ console.log('byes')
 const port = 3000;
 const app = express();
 
-//app.set("view engine", "pug");
+app.set("view engine", "pug");
 
-//app.use(express.style("style"));
 
 console.log(process.env.NODE_ENV);
 

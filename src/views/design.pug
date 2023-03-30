@@ -1,0 +1,13 @@
+html
+  head
+    link(rel="stylesheet", href="/style.css")
+    title Encyclopedia Website
+    block head
+  body
+    .design
+      .design-nav
+        include mixins/nav
+        +navigation()
+        
+      .design-components
+        block components
